@@ -1,0 +1,74 @@
+# LaTeX compilation artifacts
+
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+
+# Bibliography and indexing temporary files
+
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.ist
+*.loa
+*.lol
+*.maf
+*.mtc
+*.mtc0
+*.thm
+*.xdy
+
+# Build directories
+
+/build/
+/out/
+
+# LaTeX editor and auxiliary files
+
+*.bak
+*.swp
+*.swo
+*.tmp
+*~
+
+# TeXstudio
+
+*.txss
+*.txss2
+
+# VS Code
+
+.vscode/
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# Outputs
+*.pdf
